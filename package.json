@@ -1,0 +1,19 @@
+{
+  "name": "two-firewatch-light-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "An Atom syntax theme that is a blend between duotone light and firewatch, based on a Vim syntax theme developed by github.com/rakr. STILL A WORK IN PROGRESS.",
+  "keywords": [
+      "light",
+      "blue",
+      "read",
+      "duotone",
+      "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/soto97/two-firewatch-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
